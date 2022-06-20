@@ -7,5 +7,7 @@ public class TestClass {
         System.out.println("Let's make a pull request");
         System.out.println("Let's make a pull request");
 
+        System.out.println("Let's make a pull request");
+        System.out.println("Let's make a pull request");
     }
 }
